@@ -1,1 +1,2 @@
-# ASSIGNMENT-5-Data-Structures-and-Strings-in-Python
+dictionaryAssignment-contains the dictionary assignment
+listAssignment-contains the list assignment
